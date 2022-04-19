@@ -7,3 +7,6 @@
 - 👱‍♀️ Pronouns: ...she/her
 - ⚡ Fun fact: ...my previous career was as a choreographer! 
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical)](https://github.com/meghanblyth/github-readme-stats)
