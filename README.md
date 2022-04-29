@@ -43,7 +43,7 @@
 
 
   <div>
-    <h3 align="center"> Tech stack: </h3>
+    <h3 align="center"> Tech stack... </h3>
     <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg" height="40" width="40">
       <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original-wordmark.svg" height="40" width="40">
