@@ -3,7 +3,7 @@
 <body>
   <div>
     <h2 align="center"> Hello world! 👋  My name is Meghan </h2>
-    <br/><h4 align="center"> I am an enthusiastic Makers Academy bootcamp graduate and am excited to be on the hunt for my first job as a developer! </h4>
+    <br/><h4 align="center"> From Cork, Ireland </h4>
     
     
 <br/>   
