@@ -28,6 +28,9 @@
     <p align="center">
       <a href="https://www.linkedin.com/in/megblyth/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">
+      <a href="https://medium.com/@meghanblyth">
+      <a href="megblyth@gmail.com>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">      
       </a>
     </p>
   </div>
@@ -45,10 +48,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  
 height="40" width="40"> 
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" 
+width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </p>
    </div>
 </body>
-
+                
+                      
+                      
 
 <br/>
 
