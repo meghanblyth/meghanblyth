@@ -3,10 +3,10 @@
 <body>
   <div>
     <h2 align="center"> Hello world! 👋  My name is Meghan </h2>
-    <br/><h4 align="center"> I am a recent Makers Academy bootcamp graduate and am excited to be on the hunt for my first job as a developer! </h4>
+    <br/><h4 align="center"> I am an enthusiastic Makers Academy bootcamp graduate and am excited to be on the hunt for my first job as a developer! </h4>
     
     
-    
+<br/>   
 - 🔭 I’m currently finding my first job as a developer! 
     
 - ⚛️ I am interested in sustainable tech, Web 3 and iOS & MacOS.
