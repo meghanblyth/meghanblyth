@@ -10,7 +10,7 @@
     
 - 🔭 I’m currently finding my first job as a developer! 
     
-- 🧠 I am interested in sustainable tech, Web 3, iOS & MacOS.
+- 🧠 I am interested in sustainable tech, Web 3 and iOS.
 
 - ⚛️ I am learning Javascript, Ruby and React. 
     
