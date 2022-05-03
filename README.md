@@ -3,7 +3,7 @@
 <body>
   <div>
     <h2 align="center"> Hello world! 👋  My name is Meghan </h2>
-    <h4 align="center"> I am a recent Makers Academy graduate from Cork, Ireland </h4>
+    <h4 align="center"> 🌐 I am a recent Makers Academy graduate from Cork, Ireland </h4>
     <h6 align="center"> 🔭 I’m currently finding my first job as a developer! </h6>
     <h6 align="center"> 🧠 I am interested in sustainable tech, Web 3 and iOS. </h6>
     <h6 align="center"> ⚛️ I am learning Javascript, Ruby and React. </h6>
