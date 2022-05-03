@@ -20,12 +20,7 @@
     <h3 align="center"> Connect with me... </h3>
     <p align="center">
       <a href="https://www.linkedin.com/in/megblyth/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">
-      <a href="https://medium.com/@meghanblyth">
-      <a href="megblyth@gmail.com>">
-      <a href="https://github.com/meghanblyth/CV"> 
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
-" height="40" width="40">      
+        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">     
       </a>
     </p>
   </div>
