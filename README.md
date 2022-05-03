@@ -10,17 +10,13 @@
     <h6 align="center"> 🧪 I am a Test driven developer.</h6>
     <h6 align="center"> 👱‍♀️ My pronouns are she/her.</h6>
     <h6 align="center"> 💃 My previous career was as a choreographer! </h6>
-    
- 
-    
-    
   </div>
   
   
   <br/>
   
   
-    <div>
+ <div>
     <h3 align="center"> Connect with me... </h3>
     <p align="center">
       <a href="https://www.linkedin.com/in/megblyth/">
@@ -64,6 +60,8 @@ width="40" height="40"/>
 <a href="https://github.com/meghanblyth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
 </a>
+                                                                                                                         
+ <br/>                                                                                                                      
 
 <a href="https://github.com/meghanblyth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical" />
