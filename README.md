@@ -4,8 +4,7 @@
   <div>
     <h2 align="center"> Hello world! 👋  My name is Meghan </h2>
     <br/><h4 align="center"> I am a recent Makers Academy graduate from Cork, Ireland </h4>
-    
-    <br/><h6 align="centre"> - 🔭 I’m currently finding my first job as a developer! 
+    <br/><h6 align="centre"> 🔭 I’m currently finding my first job as a developer! </h6>
     
 - 🧠 I am interested in sustainable tech, Web 3 and iOS.
 
@@ -15,7 +14,7 @@
 
 - 👱‍♀️ My pronouns are she/her.
 
-    - 💃 My previous career was as a choreographer! </h6>
+    - 💃 My previous career was as a choreographer! 
     
  
     
