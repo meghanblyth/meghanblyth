@@ -23,6 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">     
       </a>
     </p>
+    [CV](https://github.com/meghanblyth/CV)
   </div>
   
 <br/>
