@@ -7,7 +7,7 @@
     <h6 align="center"> 🔭 I’m currently finding my first job as a developer! </h6>
     <h6 align="center"> 🧠 I am interested in sustainable tech, Web 3 and iOS. </h6>
     <h6 align="center"> ⚛️ I am learning Javascript, Ruby and React. </h6>
-    <h6 align="center"> 🧪 Test driven developer.</h6>
+    <h6 align="center"> 🧪 I am a Test driven developer.</h6>
     <h6 align="center"> 👱‍♀️ My pronouns are she/her.</h6>
     <h6 align="center"> 💃 My previous career was as a choreographer! </h6>
     
