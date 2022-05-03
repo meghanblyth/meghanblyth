@@ -58,7 +58,7 @@ width="40" height="40"/>
 <br/>
 
 <a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" width="500" height="440" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
+  <img align="center" width="500" height="480" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
 </a>
 
                                                                                                                          
