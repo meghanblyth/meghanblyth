@@ -56,14 +56,18 @@ width="40" height="40"/>
                       
 
 <br/>
+ <div>                                                                                                                    
 
-<a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
-</a>
-                                                                                                                         
- <br/>                                                                                                                      
+    <a href="https://github.com/meghanblyth/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
+    </a>
 
-<a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical" />
-</a>
+     <br/>                                                                                                                      
+
+    <a href="https://github.com/meghanblyth/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical" />
+    </a>
+  
+                                                                                                                                       
+ </div>                                                                                                                                     
 
