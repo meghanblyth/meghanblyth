@@ -10,6 +10,7 @@
     <h6 align="center"> 🧪 I am a Test driven developer.</h6>
     <h6 align="center"> 👱‍♀️ My pronouns are she/her.</h6>
     <h6 align="center"> 💃 My previous career was as a choreographer! </h6>
+    <h6 align="centre"> 💻 I write a blog on [Medium](https://medium.com/@meghanblyth) </h6> 
   </div>
   
   
