@@ -10,7 +10,6 @@
     <h6 align="center"> 🧪 I am a Test driven developer.</h6>
     <h6 align="center"> 👱‍♀️ My pronouns are she/her.</h6>
     <h6 align="center"> 💃 My previous career was as a choreographer! </h6>
-    <h6 align="centre"> 💻 I write a blog on </h6> [Medium](https://medium.com/@meghanblyth) 
   </div>
   
   
@@ -21,6 +20,9 @@
     <h3 align="center"> Connect with me... </h3>
     <p align="center">
       <a href="https://www.linkedin.com/in/megblyth/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">     
+      </a>
+      <a href="https://medium.com/@meghanblyth">
         <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="40" width="40">     
       </a>
     </p>
