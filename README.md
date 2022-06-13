@@ -56,7 +56,7 @@ width="40" height="40"/>
 <h3>My stats...</h3>
 
 ![Meghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=cobalt)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=cobalt&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   
                                                                                                                                        
                                                                                                                                      
