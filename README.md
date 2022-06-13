@@ -50,13 +50,9 @@ width="40" height="40"/>
    </div>
 </body>
 
-<a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
-</a>                                                                                                                      
 
-<a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical" />
-</a>
+![Meghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=merko)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=merko&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
                                                                                                                                        
                                                                                                                                      
