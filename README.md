@@ -51,8 +51,8 @@ width="40" height="40"/>
 </body>
 
 
-![Meghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=merko)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=merko&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+![Meghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=cobalt)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=cobalt&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
                                                                                                                                        
                                                                                                                                      
