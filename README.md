@@ -2,7 +2,7 @@
 
 <body>
   <div>
-    <h2> Hello world! 👋  My name is Meghan </h2>
+    <h2> Hello world! 👋  My name is Meghan Blyth </h2>
     <h4> 🌍 I am a recent Makers Academy graduate from Cork, Ireland </h4>
     <h6> 🔭 I’m currently finding my first job as a developer. </h6>
     <h6> 🧠 I am interested in sustainable tech, tech for good, Web 3 and iOS. </h6>
