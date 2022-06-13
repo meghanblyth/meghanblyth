@@ -9,7 +9,7 @@
     <h6> ⚛️ I am learning Javascript, Ruby and React. </h6>
     <h6> 🧪 I am a Test driven developer.</h6>
     <h6> 👱‍♀️ My pronouns are she/her.</h6>
-    <h6> 💃 My previous career was as a choreographer! </h6>
+    <h6> 💃 My previous career was as a choreographer, teacher and producer! </h6>
   </div>
   
   
