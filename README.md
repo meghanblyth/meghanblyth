@@ -3,10 +3,10 @@
 <body>
   <div>
     <h2> Hello world! 👋  My name is Meghan Blyth </h2>
-    <h4> 🌍 I am a recent Makers Academy graduate from Cork, Ireland </h4>
-    <h6> 🔭 I’m currently finding my first job as a developer. </h6>
-    <h6> 🧠 I am interested in sustainable tech, tech for good, Web 3 and iOS. </h6>
-    <h6> ⚛️ I am learning Javascript, Ruby and React. </h6>
+    <h4> 🌍 I am a Makers Academy graduate from Cork, Ireland </h4>
+    <h6> 🔭 I’m currently working as a software developer for the Anthony Nolan Trust. </h6>
+    <h6> 🧠 I am interested in sustainable tech, tech for good, Web 3 and AI. </h6>
+    <h6> ⚛️ I am learning React and C#. </h6>
     <h6> 🧪 I am a Test driven developer.</h6>
     <h6> 👱‍♀️ My pronouns are she/her.</h6>
     <h6> 💃 My previous career was as a choreographer, teacher and producer! </h6>
