@@ -5,6 +5,7 @@
     <h2> Hello world! 👋  My name is Meghan Blyth </h2>
     <h4> 🌍 I am a Makers Academy graduate from Cork, Ireland </h4>
     <h6> 🔭 I’m currently working as a software developer for the Anthony Nolan Trust. </h6>
+    <h6> 💻 My current tech stack is React, Javascript, Typescript, C#, SCSS, HTML, Storybook, Figma, Azure and Selenium. </h6>
     <h6> 🧠 I am interested in sustainable tech, tech for good, Web 3 and AI. </h6>
     <h6> ⚛️ I am learning React and C#. </h6>
     <h6> 🧪 I am a Test driven developer.</h6>
